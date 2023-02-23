@@ -1,0 +1,21 @@
+{
+  "name": "Selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "int",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^110.0.0",
+    "geckodriver": "^3.2.0",
+    "msedgedriver": "^91.0.0",
+    "selenium-webdriver": "^4.8.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
